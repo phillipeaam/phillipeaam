@@ -4,17 +4,15 @@
 
 I'm passionate about building gameplay systems that create memorable player experiences through thoughtful engineering, scalable architecture, and polished gameplay.
 
-I enjoy understanding how engineering decisions influence the way a game feels—and how seemingly small technical details can have a lasting impact on the player experience.
-
 ---
 
-## 🎯 What Drives Me
+## 🎯 Engineering Mindset
 
-I'm fascinated by the engineering behind great games.
+What fascinates me most about game development is understanding why great games feel the way they do.
 
-Whether it's a progression system, an AI behavior, a responsive mechanic, or a performance optimization, I enjoy understanding how thoughtful engineering decisions shape the way a game feels.
+I enjoy exploring the engineering behind progression systems, responsive mechanics, AI behaviors, simulation, and performance—not just to learn how they're built, but to understand how they shape the player's experience.
 
-That's what motivates me to keep learning, experimenting, and growing as a Gameplay Engineer every day.
+That curiosity keeps me learning, experimenting, and growing as an engineer.
 
 ---
 
@@ -36,15 +34,15 @@ Writing clean, maintainable code while collaborating across multidisciplinary te
 
 ## 🌱 Current Focus
 
-I'm intentionally building my career around Gameplay Engineering, continuously deepening my understanding of gameplay architecture, AI, simulation, and performance while creating systems that deliver memorable player experiences.
+I'm currently expanding my public portfolio through gameplay prototypes, engineering studies, and technical experiments while continuing to deepen my knowledge of gameplay architecture, AI, simulation, and performance.
 
 ---
 
 ## 🚧 Currently Building
 
-I'm intentionally building a portfolio that reflects not only what I've built professionally, but also how I think as a Gameplay Engineer.
+These projects are currently under active development and represent the next stage of my public portfolio.
 
-These projects will continue to evolve as I document my journey through gameplay prototypes, engineering notebooks, technical experiments, and production-quality game systems.
+Over time, this section will grow with gameplay prototypes, engineering notebooks, technical experiments, and production-quality projects that reflect both my professional experience and continuous learning.
 
 - 🎮 Gameplay Projects
 - 📚 Gameplay Engineering Notebook
