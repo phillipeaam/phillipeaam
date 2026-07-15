@@ -2,7 +2,9 @@
 
 **Software Engineer building gameplay systems with Unity and C#, focused on Gameplay Engineering.**
 
-Over the past few years I've contributed to production Unity applications, designing gameplay-inspired systems, progression features, backend integrations, and software architecture while collaborating with multidisciplinary teams.
+I enjoy solving complex engineering problems and turning gameplay ideas into scalable, maintainable systems.
+
+Over the past few years I've contributed to production Unity products, designing gameplay-inspired systems, player progression, backend integrations, and software architecture while collaborating with multidisciplinary teams.
 
 ---
 
@@ -10,7 +12,7 @@ Over the past few years I've contributed to production Unity applications, desig
 
 What fascinates me most about game development is understanding why great games feel the way they do.
 
-I enjoy exploring the engineering behind progression systems, responsive mechanics, AI behaviors, simulation, and performance—not just to learn how they're built, but to understand how they shape the player's experience.
+I enjoy exploring the engineering behind progression systems, responsive mechanics, Gameplay AI, simulation, and performance—not just to learn how they're built, but to understand how they shape the player's experience.
 
 That curiosity keeps me learning, experimenting, and growing as an engineer.
 
@@ -26,7 +28,7 @@ Designing gameplay systems, progression mechanics, interactive experiences, and 
 
 Building maintainable software through clean architecture, backend integrations, event-driven systems, performance optimization, and mobile development.
 
-**Engineering Practices**
+**Engineering Principles**
 
 Writing clean, maintainable code while collaborating across multidisciplinary teams, documenting technical decisions, and continuously improving development workflows.
 
@@ -34,7 +36,7 @@ Writing clean, maintainable code while collaborating across multidisciplinary te
 
 ## 🌱 Current Focus
 
-Lately I've been exploring topics such as Gameplay AI, simulation, performance, and Data-Oriented Design through personal studies and gameplay prototypes, with the goal of continuously improving my engineering toolkit.
+Lately I've been exploring topics such as Gameplay AI, simulation, performance, and Data-Oriented Design through personal studies and gameplay prototypes as I continue growing as a Gameplay Engineer.
 
 ---
 
@@ -42,7 +44,7 @@ Lately I've been exploring topics such as Gameplay AI, simulation, performance, 
 
 These projects are currently under active development and represent the next stage of my public portfolio.
 
-Over time, this section will grow with gameplay prototypes, engineering notebooks, technical experiments, and production-quality projects that reflect both my professional experience and continuous learning.
+These projects will continue to evolve as I explore gameplay architecture, engineering patterns, technical experiments, and production-quality game systems.
 
 - 🎮 Gameplay Projects
 - 📚 Gameplay Engineering Notebook
