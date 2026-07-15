@@ -1,8 +1,8 @@
 # Hi, I'm Phillipe Augusto 👋
 
-**Software Engineer primarily working with Unity and C#, focused on Gameplay Engineering.**
+**Software Engineer building gameplay systems with Unity and C#, focused on Gameplay Engineering.**
 
-I'm passionate about building gameplay systems that create memorable player experiences through thoughtful engineering, scalable architecture, and polished gameplay.
+Over the past few years I've contributed to production Unity applications, designing gameplay-inspired systems, progression features, backend integrations, and software architecture while collaborating with multidisciplinary teams.
 
 ---
 
@@ -34,7 +34,7 @@ Writing clean, maintainable code while collaborating across multidisciplinary te
 
 ## 🌱 Current Focus
 
-I'm currently expanding my public portfolio through gameplay prototypes, engineering studies, and technical experiments while continuing to deepen my knowledge of gameplay architecture, AI, simulation, and performance.
+Lately I've been exploring topics such as Gameplay AI, simulation, performance, and Data-Oriented Design through personal studies and gameplay prototypes, with the goal of continuously improving my engineering toolkit.
 
 ---
 
