@@ -1,9 +1,4 @@
 <div align="center">
-  <img
-    src="assets/behind-the-experience.webp"
-    alt="A small character jumping between floating stone platforms"
-  />
-
   <h1>Phillipe Augusto</h1>
 
   <p><strong>Senior Game Engineer</strong> · Unity &amp; C#</p>
@@ -19,4 +14,10 @@
     · <a href="https://phillipeaam.itch.io/">itch.io</a>
     · <a href="https://www.youtube.com/@phillipeaam">YouTube</a>
   </p>
+
+  <img
+    src="assets/behind-the-experience.webp"
+    alt="A small character jumping between floating stone platforms"
+    width="100%"
+  />
 </div>
