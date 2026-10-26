@@ -1,11 +1,19 @@
-![Isometric game environment with a player jumping between platforms](assets/behind-the-experience.png)
+<div align="center">
+  <img alt="behind-the-experience" src="https://github.com/user-attachments/assets/07ce4bda-93c6-4054-b195-60bfd3ede4c4" />
 
-## 🎮 Behind the experience
+  <h1>Phillipe Augusto</h1>
 
-I share gameplay code samples and prototypes here, with implementation notes on gameplay logic, state transitions, and runtime behavior.
+  <p><strong>Senior Game Engineer</strong> · Unity &amp; C#</p>
 
-Full project stories live on my [portfolio](https://phillipeaam.github.io).
+  <p>
+    Gameplay systems, client features, and editor tools across commercial games,
+    interactive learning products, and independent projects.
+  </p>
 
----
-
-[💼 LinkedIn](https://www.linkedin.com/in/phillipe-augusto/) · [🎮 itch.io](https://phillipeaam.itch.io/) · [▶ YouTube](https://www.youtube.com/channel/UCP1HCs5ptr5UJ30aILVTWAA)
+  <p>
+    <a href="https://phillipeaam.github.io"><strong>Portfolio</strong></a>
+    · <a href="https://www.linkedin.com/in/phillipe-augusto/">LinkedIn</a>
+    · <a href="https://phillipeaam.itch.io/">itch.io</a>
+    · <a href="https://www.youtube.com/@phillipeaam">YouTube</a>
+  </p>
+</div>
