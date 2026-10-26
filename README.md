@@ -1,5 +1,8 @@
 <div align="center">
-  <img alt="behind-the-experience" src="https://github.com/user-attachments/assets/07ce4bda-93c6-4054-b195-60bfd3ede4c4" />
+  <img
+    src="assets/behind-the-experience.webp"
+    alt="A small character jumping between floating stone platforms"
+  />
 
   <h1>Phillipe Augusto</h1>
 
